@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "gpdf",
-    "slug": "gpdf",
+    "name": "GViewer",
+    "slug": "gviewer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "gpdf",
+    "scheme": "gviewer",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.gurkay.gviewer"
     },
     "web": {
       "bundler": "metro",
@@ -31,12 +32,22 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "image": "./assets/images/splash-icon.png",
+            "backgroundColor": "#1f2937"
+          }
         }
       ]
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1c1fce42-ddfd-4bf5-90b8-fb5f65207acd"
+      }
     }
   }
 }
