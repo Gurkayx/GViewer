@@ -2,7 +2,6 @@
 
 Modern ve kullanıcı dostu bir PDF ve Excel dosya görüntüleyici uygulaması. React Native ve Expo ile geliştirilmiştir.
 
-![GViewer App](screenshoots/ss0.jpg)
 
 ## ✨ Özellikler
 
