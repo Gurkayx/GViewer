@@ -10,7 +10,6 @@ Modern ve kullanıcı dostu bir PDF ve Excel dosya görüntüleyici uygulaması.
 - ⭐ **Favoriler**: Sık kullanılan dosyaları favorilere ekleme
 - 📁 **Dosya Yönetimi**: Cihazdan dosya seçme ve yönetme
 - 🎨 **Modern UI**: NativeWind ile tasarlanmış modern arayüz
-- 🌙 **Dark/Light Mode**: Otomatik tema desteği
 - 📱 **Cross-Platform**: Android ve iOS desteği
 
 ## 🚀 Kurulum
